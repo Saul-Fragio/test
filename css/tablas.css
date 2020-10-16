@@ -7,18 +7,18 @@ td,th{border-style:  solid;
 
 }
 
-td{ background-color: lightcoral;
+td{ background-color: greenyellow;
     border-radius: 10px;
 }
 
 th{
 border-top-style: none;    
-background-color: tomato;
+background-color: rgb(117, 214, 146);
 
 }
 
 #celda_2_4{
-    background-color: red;
+    background-color: rgb(117, 214, 14);
 }
 
 .amarillo{
